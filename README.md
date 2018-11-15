@@ -1,5 +1,5 @@
 # SugarLock
-In short it replace this 
+In short it replaces this 
 ```Swift 
 let locker = NSLock()
 locker.lock()
